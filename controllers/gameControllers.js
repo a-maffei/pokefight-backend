@@ -60,5 +60,6 @@ module.exports = {
   deleteAllGames,
   getAllGames,
   getOneGame,
+
   createGame,
 };
